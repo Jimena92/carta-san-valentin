@@ -155,9 +155,10 @@ body {
   }
   
   .text {
+    font-size: 14px;
     position: absolute;
     font-family: arial;
-    letter-spacing:5px;
+    letter-spacing: 5px;
     text-align: center;
     color: white;
     z-index:2;
